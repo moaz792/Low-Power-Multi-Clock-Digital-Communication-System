@@ -1,0 +1,45 @@
+****************************************************
+
+Info:  Net Ref:/WORK/SYS_TOP/SO is undriven.
+Info:  Multiple drivers on net Ref:/WORK/sys_cnrt/one.
+Info:  Multiple drivers on net Ref:/WORK/sys_cnrt/h_co.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][7] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][6] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][5] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][4] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][3] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][2] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][1] is undriven.
+Info:  Net Ref:/WORK/reg_file/Regfile[8][0] is undriven.
+Info:  Net Imp:/WORK/SYS_TOP/SO is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[7] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[6] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[5] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[4] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[3] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[2] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[1] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/remainder[0] is undriven.
+Info:  Net Imp:/WORK/alu_DW_div_uns_0/divide_by_0 is undriven.
+Info:  Net Imp:/WORK/alu_DW01_sub_0/CO is undriven.
+Info:  Net Imp:/WORK/alu_DW01_add_0/CO is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[15] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[14] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[13] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[12] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[11] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[10] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[9] is undriven.
+Info:  Net Imp:/WORK/alu_DW02_mult_0/PRODUCT[8] is undriven.
+Info:  guide_uniquify 91 (Line: 689)  Cannot find object "A11/U11" in design 'SYS_TOP'.
+Info:  SVF Operation 91 (Line: 689) - uniquify.  Status: rejected
+Info:  guide_uniquify 91 (Line: 689)  Cannot find object "A10/U11" in design 'SYS_TOP'.
+Info:  guide_uniquify 91 (Line: 689)  Cannot find object "b3/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 91 (Line: 689)  Cannot find object "b2/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 91 (Line: 689)  Cannot find object "b1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 91 (Line: 689)  Cannot find object "b0/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 99 (Line: 739)  Cannot find object "A1/dp_cluster_0/mult_48" in design 'SYS_TOP'.
+Info:  Pre-verification of Ref:/WORK/alu/div_52 SUCCEEDED.
+Info:  Pre-verification of Ref:/WORK/alu/mult_48 SUCCEEDED.
+****************************************************
+
